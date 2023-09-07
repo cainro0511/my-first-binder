@@ -1,5 +1,5 @@
 print("Hello from Binder!")
-echo "# my-first-binder" >> README.md
+#echo "# my-first-binder" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
